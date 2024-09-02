@@ -46,18 +46,10 @@ I'm always open to collaborating on exciting projects related to data analytics,
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A400&background=000000&center=true&vCenter=true&width=600&lines=Daytime+Dreamer;Night-Time+Coder)
 
-<h2 align="center">
-  <span style="font-size: 30px; font-weight: bold; color: #39FF14; animation: blink 1s infinite;">
-    I Like to Build Stuffs
-  </span>
-</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/1BfTVnRrMA68q8LXp7/giphy.gif" alt="I Like to Build Stuffs" width="400">
+</p>
 
-<style>
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-</style>
 
 ---
 
