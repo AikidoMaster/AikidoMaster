@@ -40,7 +40,9 @@ I'm always open to collaborating on exciting projects related to data analytics,
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A400&background=000000&center=true&vCenter=true&width=600&lines=Daytime+Dreamer;Night-Time+Coder)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A400&background=000000&center=true&vCenter=true&width=600&lines=Daytime+Dreamer;NightTime+Coder)
+
+
 
 [![1j-YQ3fw6-Sru-TIkn8-Yv8xlw.png](https://i.postimg.cc/Gm2YJ5NC/1j-YQ3fw6-Sru-TIkn8-Yv8xlw.png)](https://postimg.cc/jLpLRZtg)
 
