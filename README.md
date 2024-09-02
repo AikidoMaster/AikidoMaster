@@ -26,6 +26,12 @@ I’m a passionate **Data Enthusiast** specializing in **Data Analytics** and **
 - **GitHub:** [github.com/Aikido](https://github.com/AikidoMaster)
 - **Medium:** [Follow me](https://medium.com/@RohitGanguly)
 
+  ## 📊 GitHub Stats:
+![Rohit Ganguly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aikido&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aikido&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aikido&theme=radical)
+
+
 ## 🌐 Let's Collaborate!
 I'm always open to collaborating on interesting projects related to data analytics, data engineering, and cloud technologies. If you have an idea or a challenge, feel free to reach out!
 
