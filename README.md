@@ -19,7 +19,6 @@ I’m a passionate **Data Enthusiast** specializing in **Data Analytics**, **Dat
 - **Tools & Technologies:** Git, Docker, Jenkins, Kubernetes, Airflow
 
 ## 🎓 Certifications:
-- ![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Data%20Analytics%20%E2%80%93%20Specialty-orange?style=flat-square)
 - ![Azure Data Engineer](https://img.shields.io/badge/Azure-Data%20Engineer%20Associate-blue?style=flat-square)
 - ![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud-Professional%20Data%20Engineer-green?style=flat-square)
 - ![Tableau Desktop Specialist](https://img.shields.io/badge/Tableau-Desktop%20Specialist-brightgreen?style=flat-square)
@@ -45,8 +44,9 @@ I'm always open to collaborating on exciting projects related to data analytics,
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Aikido/count.svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A400&background=000000&center=true&vCenter=true&width=600&lines=Daytime+Dreamer;Night-Time+Coder)
+
 
 ---
 
-This updated version incorporates your expanded skill set, updated certifications with badges, and streamlined the overall layout for a professional look.
+
