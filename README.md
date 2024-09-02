@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A400&width=435&lines=Data+Enthusiast;Data+Analytics+Specialist;Data+Engineering+Pro;Memorial+University+of+Newfoundland)
 
-I’m a passionate **Data Enthusiast** specializing in **Data Analytics**, **Data Engineering**, and **Machine Learning**. Currently pursuing my academic journey at **Memorial University of Newfoundland**, I'm dedicated to leveraging data to drive insights, innovation, and informed decision-making.
+I’m a passionate **Data Enthusiast** specializing in **Data Analytics**, **Data Engineering**, and **Machine Learning**. Recently graduated from **Memorial University of Newfoundland**, I'm dedicated to leveraging data to drive insights, innovation, and informed decision-making.
 
 ## 💼 My Tech Stack:
 - **Programming:** Python, R, SQL
