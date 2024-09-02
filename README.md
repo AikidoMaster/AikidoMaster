@@ -45,9 +45,8 @@ I'm always open to collaborating on exciting projects related to data analytics,
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A400&background=000000&center=true&vCenter=true&width=600&lines=Daytime+Dreamer;Night-Time+Coder)
 
-<p align="center">
-  <img src="https://ideogram.ai/assets/image/lossless/response/1jYQ3fw6SruTIkn8Yv8xlw" alt="I Like to Build Stuffs" width="400">
-</p>
+![My Image](https://i.ibb.co/1qh47pj)
+
 
 
 ---
