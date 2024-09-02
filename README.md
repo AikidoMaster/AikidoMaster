@@ -1,6 +1,3 @@
-Certainly! Here’s your README with the updated certifications, including badge logos and shields:
-
----
 
 # Hello, I'm Rohit Ganguly 👋
 
