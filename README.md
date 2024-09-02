@@ -34,10 +34,9 @@ I’m a passionate **Data Enthusiast** specializing in **Data Analytics**, **Dat
 - ![Tableau Business Analyst](https://img.shields.io/badge/Tableau-Business%20Analyst-brightgreen?style=flat-square)
 
 ## 📫 Connect with Me:
-- **Email:** [rohit.ganguly@mun.ca](mailto:rohit.ganguly@mun.ca)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rohitganguly)
-- **GitHub:** [github.com/Aikido](https://github.com/AikidoMaster)
-- **Medium:** [Follow me](https://medium.com/@RohitGanguly)
+-            
+
+
 
 ## 🌐 Let's Collaborate!
 I'm always open to collaborating on exciting projects related to data analytics, data engineering, machine learning, and cloud technologies. If you have an idea or a challenge, feel free to reach out!
