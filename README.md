@@ -27,10 +27,10 @@ I’m a dedicated **Data Enthusiast** and **Software Developer** with a passion 
 - **Natural Language Processing (NLP):** ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-00BFA6?style=flat&logoColor=white) - Skilled in text preprocessing, sentiment analysis, topic modeling, and language generation using tools like NLTK and SpaCy.
 
 ## 📫 Connect with Me
-- **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [Connect with Me](https://www.linkedin.com/in/rohit-ganguly)
-- **Facebook:** ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white) [My Facebook](https://www.facebook.com/rohit.ganguly)
-- **Instagram:** ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Follow Me](https://www.instagram.com/Supergamer07)
-- **Email:** ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) [Send an Email](mailto:rohitganguly186@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [Connect with Me](https://www.linkedin.com/in/rohit-ganguly)
+- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white) [My Facebook](https://www.facebook.com/rohit.ganguly)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Follow Me](https://www.instagram.com/Supergamer07)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) [Send an Email](mailto:rohitganguly186@gmail.com)
 
 ## 🌐 Let's Collaborate!
 I’m always eager to take on new challenges in data engineering, software development, data analytics, and machine learning. If you have a project in mind, let’s connect and build something great together!
