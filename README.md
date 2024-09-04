@@ -16,7 +16,6 @@ I’m a dedicated **Data Enthusiast** and **Software Developer** with a passion 
 - **API Development:** ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-000000?style=flat&logo=restful&logoColor=white)
 - **DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- **Testing & Debugging:** Ensuring code quality and reliability with comprehensive testing practices.
 
 ## 📊 Data Analytics & Machine Learning
 - **Data Visualization:** ![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -30,8 +29,11 @@ I’m a dedicated **Data Enthusiast** and **Software Developer** with a passion 
 ## 📫 Connect with Me
 - **LinkedIn:** ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [Connect with Me](https://www.linkedin.com/in/rohit-ganguly)
 - **Facebook:** ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white) [My Facebook](https://www.facebook.com/rohit.ganguly)
-- **Instagram:** ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Follow Me](https://www.instagram.com/rohit.ganguly)
-- **Email:** ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) [Send an Email](mailto:youremail@example.com)
+- **Instagram:** ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Follow Me](https://www.instagram.com/Supergamer07)
+- **Email:** ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) [Send an Email](mailto:rohitganguly186@gmail.com)
 
 ## 🌐 Let's Collaborate!
 I’m always eager to take on new challenges in data engineering, software development, data analytics, and machine learning. If you have a project in mind, let’s connect and build something great together!
+
+
+<img src="https://i.ibb.co/bg6LWDJ/1j-YQ3fw6-Sru-TIkn8-Yv8xlw.png" alt="Profile Picture" width="250" height="250">
