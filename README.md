@@ -35,5 +35,6 @@ I’m a dedicated **Data Enthusiast** and **Software Developer** with a passion 
 ## 🌐 Let's Collaborate!
 I’m always eager to take on new challenges in data engineering, software development, data analytics, and machine learning. If you have a project in mind, let’s connect and build something great together!
 
-<img src="https://ibb.co/Lz06kH5" alt="Profile Picture" width="250" height="250">
+![Profile Picture](https://ibb.co/Lz06kH5)
+
 
