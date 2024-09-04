@@ -28,8 +28,8 @@ I’m a dedicated **Data Enthusiast** and **Software Developer** with a passion 
 
 ## 📫 Connect with Me
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)[Follow Me](https://www.linkedin.com/in/rohitganguly)
-- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)[Connect With Me](https://www.facebook.com/rohit.ganguly)
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)[Follow Me](https://www.instagram.com/Supergamer07)
+- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)[Connect With Me](https://www.facebook.com/Supergamer07)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)[Follow Me](https://www.instagram.com/ez4rtg)
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)[Email Me](mailto:rohitganguly186@gmail.com)
 
 ## 🌐 Let's Collaborate!
