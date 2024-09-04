@@ -22,6 +22,7 @@ I’m a dedicated **Data Enthusiast** and **Software Developer** with a passion 
 
 ## 📊 Data Analytics
 - **Data Visualization:** ![Power BI](https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- **Python Tools:** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 - **Spreadsheet Tools:** ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 - **Data Manipulation:** Utilizing Python and R for powerful data analysis.
 
@@ -34,4 +35,3 @@ I’m a dedicated **Data Enthusiast** and **Software Developer** with a passion 
 ## 🌐 Let's Collaborate!
 I’m always eager to take on new challenges in data engineering, software development, and data analytics. If you have a project in mind, let’s connect and build something great together!
 
----
